@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\dora\\background"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Trex"
+	}
+}
